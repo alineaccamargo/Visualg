@@ -1,2 +1,2 @@
 # Visualg
- Exercícios Lógica da Programação - Udemy
+ Exercícios Lógica da Programação 
