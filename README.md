@@ -1,2 +1,2 @@
 # Visualg
- Exercícios Lógica da Programação 
+ Exercícios Lógica da Programação.
